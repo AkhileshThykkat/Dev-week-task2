@@ -1,1 +1,76 @@
 
+
+html {
+    font-family: 'Open Sans', sans-serif;
+    
+  }
+
+  body {
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    position: absolute;
+  }
+  header {
+    height: 150px;
+  }
+
+  header img {
+    width: 125px;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+  }
+
+  h1 {
+    font-size: 50px;
+    line-height: 140px;
+    margin: 0 0 0 32.5px;
+  }
+  article {
+    padding: 20px;
+    background: #ccc;
+  }
+
+  h2 {
+    margin-top: 0;
+    font-weight:bolder ;
+    
+  }
+
+  p {
+    line-height: 2;
+    font-size: 20px;
+  }
+
+  iframe {
+    position: relative;
+    float: left;
+    margin: 0 20px 20px 0;
+    width: 500px;
+    height: 250px;
+    
+  }
+  
+  
+  .links {
+    clear: left;
+    padding: 40px 0;
+    background: #c13832;
+    
+  }
+
+  .links img {
+    max-width: 100%;
+    width: 25%;
+    display: block;
+    float: left;
+  }
+
+  .clear {
+    clear: both;
+  }
+  .red-panda img {
+    width: 100%;
+    height: auto;
+  }
